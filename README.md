@@ -6,11 +6,11 @@ Embark on a slithery adventure with our HTML, CSS, and vanilla JavaScript Snake 
 
 <table>
   <tr>
-    <td align="center"><img src="./public/assets/img1_Light.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assets/img1_Dark.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img1_light.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img1_dark.webp" width="100%" height="auto"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./public/assets/img2_Dark.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assets/img2_Light.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img2_dark.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img2_light.webp" width="100%" height="auto"></td>
   </tr>
 </table>
